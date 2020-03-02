@@ -1,0 +1,34 @@
+{
+  "window.titleBarStyle": "custom",
+  "workbench.colorTheme": "Dracula",
+  "editor.fontSize": 16,
+  "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.rulers": [
+    80,
+    120
+  ],
+  "workbench.iconTheme": "material-icon-theme",
+  "eslint.format.enable": true,
+  "eslint.packageManager": "yarn",
+  "eslint.run": "onType",
+  "eslint.alwaysShowStatus": true,
+  "eslint.codeActionsOnSave.mode": "all",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+  ],
+  "prettier.packageManager": "yarn",
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "window.zoomLevel": 0,
+  "terminal.integrated.shell.linux": "/usr/bin/zsh",
+  "todo-tree.tree.showScanModeButton": false,
+}
